@@ -752,3 +752,6 @@ height: 8vw;
 }
 
 .fa-desktop{display:none;}
+
+.fa.fa-folder-open-o{color:#fff;}
+.fa.fa-circle.fa-stack-2x.text-primary{z-index:-1;}
