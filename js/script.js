@@ -7,3 +7,9 @@ if(this.className === 'pop grow') {
 }
 });
 //fin pop portrait
+
+
+
+$("#full_screen,#bandeau").click(function(){
+	$("#bandeau").toggle();
+});
