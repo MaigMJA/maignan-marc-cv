@@ -617,6 +617,11 @@ cursor: pointer;
 -webkit-transition: width 600ms cubic-bezier(1, -0.36, 0.54, 1.99), height 600ms cubic-bezier(1, -0.36, 0.54, 1.99);
 transition: width 600ms cubic-bezier(1, -0.36, 0.54, 1.99), height 600ms cubic-bezier(1, -0.36, 0.54, 1.99);
 }
+
+.pop:hover {
+  background-image: url(../img/portrait3sm.png);
+}
+
 .pop:after {
 content: "DEVELOPPEUR WEB, INTEGRATEUR, INFOGRAPHISTE";
 color: #fff;
