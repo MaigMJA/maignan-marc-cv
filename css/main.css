@@ -722,8 +722,10 @@ i.fa.fa-cog.fa-spin.fa-3x.fa-fw{
   max-width: 85vw;
 }
 
-.links{
-  color:#2d616f;
+
+links{
+  color:#fec503;
+  font-weight: bold;
 }
 
 
@@ -757,3 +759,10 @@ i.fa.fa-cog.fa-spin.fa-3x.fa-fw{
 
 .fa.fa-folder-open-o{color:#fff;}
 .fa.fa-circle.fa-stack-2x.text-primary{z-index:-1;}
+
+.timeline:before {
+    background-color:#FFEB3B!important;
+}
+.timeline>li .timeline-image {
+    border: 7px solid #FFEB3B!important;
+}

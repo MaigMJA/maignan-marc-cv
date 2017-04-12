@@ -26,3 +26,10 @@ position: relative;
 /*#containerportrait{
   height:40vh;
 }*/
+/*
+.timeline:before {
+    background-color:#FFEB3B!important;
+}
+.timeline>li .timeline-image {
+    border: 7px solid #FFEB3B!important;
+}*/
